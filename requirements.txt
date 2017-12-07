@@ -1,0 +1,5 @@
+aiohttp>=2.3.6
+async_timeout>=2.0.0
+lxml>=4.1.1
+bs4>=0.0.1
+pymongo>=3.6.0
